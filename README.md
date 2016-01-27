@@ -1,6 +1,6 @@
 
-SITE RESPONSIVE 1
+SITES RESPONSIVE:
 
 
 
-https://htmlpreview.github.io/?https://github.com/NikEurope/SITERESPONSIVE1/blob/master/index.html
+https://htmlpreview.github.io/?https://github.com/NikEurope/SITERESPONSIVE/blob/master/index.html
