@@ -5,11 +5,11 @@ body{
   margin: 3%;
 }
 header {
-			width: 100%;
-			height: 30px;
-      width: 100%;
-			background-color: #AAA;
-			color: #FF0;
+     width: 100%;
+     height: 30px;
+     width: 100%;
+     background-color: #AAA;
+     color: #FF0;
 }
 aside{
       background-color: #ccc;
@@ -80,7 +80,6 @@ article{
           color: yellow;
         }
 }
-
 
 #c{
   position:relative;
