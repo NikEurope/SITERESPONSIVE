@@ -22,10 +22,9 @@ article{
 }
 #Footer{
   text-align: center;
-  font-size: 80 px;
+  font-size: 80px;
   color: blue;
 }
-
 
 /* Media Screen----------------------------*/
 
@@ -74,7 +73,7 @@ article{
           font-family: fantasy;
         }
         #Footer{
-          font-size: 300 px;
+          font-size: 300px;
           color: red;
         }
 
